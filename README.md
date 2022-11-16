@@ -64,10 +64,10 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   !pip install focal-loss
 
-
-!pip install git+https://github.com/tensorflow/examples.git
-!pip install -U tfds-nightly
-!pip install focal-loss
+* Other
+  ```sh
+  !pip install git+https://github.com/tensorflow/examples.git
+  !pip install -U tfds-nightly
   ```
 
 
