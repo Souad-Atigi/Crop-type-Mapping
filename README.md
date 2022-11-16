@@ -47,7 +47,7 @@ The food necessities of a country are mainly determined by its agricultural reso
 ## Getting Started
 
 ### Get the Data
-
+<a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
 You can register an account on <a href="https://zindi.africa/"> and download the data from the Zindi competition: Farm Pin Crop Detection Challenge.
 
 ### Installation
