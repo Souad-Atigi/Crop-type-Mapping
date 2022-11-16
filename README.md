@@ -2,10 +2,10 @@
 
 ##### Table of Contents  
 [Headers](#About)  
-[Getting Started](#Getting Started)  
+[Getting Started](#GettingStarted)  
   
 <a name="headers"/>
-<a name="Getting Started"/>
+<a name="GettingStarted"/>
 
 ## About
 
