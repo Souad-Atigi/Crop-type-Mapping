@@ -1,9 +1,9 @@
-#### SEMANTIC SEGMANTATION BASED ON DEEP LEARNING TO MAP CROP TYPES IN SATELLITE IMAGERY
-### About  
+### SEMANTIC SEGMANTATION BASED ON DEEP LEARNING TO MAP CROP TYPES IN SATELLITE IMAGERY
 
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
+[Headers](#About)  
+[Emphasis](#Getting Started)  
+  
 <a name="headers"/>
-## Headers
+## About
+## Getting Started
