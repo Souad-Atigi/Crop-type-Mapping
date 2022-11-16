@@ -13,7 +13,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#prerequisites">Get the Data</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -48,7 +48,7 @@ The food necessities of a country are mainly determined by its agricultural reso
 
 ### Get the Data
 
-You can register an account on https://zindi.africa/" and download the data from the Zindi competition: Farm Pin Crop Detection Challenge.
+You can register an account on https://zindi.africa/ and download the data from the Zindi competition: Farm Pin Crop Detection Challenge.
 
 ### Installation
 
