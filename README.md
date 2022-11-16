@@ -34,9 +34,9 @@ The food necessities of a country are mainly determined by its agricultural reso
 
 You can register an account on https://zindi.africa/ and download the data from the Zindi competition: Farm Pin Crop Detection Challenge.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-### Installation
 
-This is an example of how to list things you need to use the software and how to install them.
+
+### Installation
 * Rasterio
   ```sh
   !pip install -q rasterio
