@@ -49,23 +49,25 @@ The food necessities of a country are mainly determined by its agricultural reso
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Installation
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Rasterio
   ```sh
   !pip install -q rasterio
-!pip install -q geopandas
+
+* Geopandas
+  ```sh
+  !pip install -q geopandas
+
+* Focal Loss
+  ```sh
+  !pip install focal-loss
+
+
 !pip install git+https://github.com/tensorflow/examples.git
 !pip install -U tfds-nightly
 !pip install focal-loss
   ```
 
-### Installation
-
-<p align="right">(<a href="#readme-top">!pip install -q rasterio
-!pip install -q geopandas
-!pip install git+https://github.com/tensorflow/examples.git
-!pip install -U tfds-nightly
-!pip install focal-loss</a>)</p>
 
