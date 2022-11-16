@@ -2,9 +2,7 @@
 
 ##### Table of Contents  
 [About the Project](#About) 
-
 [Built With](#Built)
-
 [Getting Started](#GettingStarted)  
 
 <a name="headers"/>
